@@ -1,0 +1,56 @@
+{
+  "version": 7,
+  "backups": [
+    {
+      "name": "RD Rules",
+      "messages": [
+        {
+          "data": {
+            "content": null,
+            "embeds": [
+              {
+                "color": 11433458,
+                "image": {
+                  "url": "https://github.com/RD-Developement/Relaxed-Downtown/blob/main/Embed%20Header/Text%20Rules.png?raw=true"
+                }
+              },
+              {
+                "title": "**Text Rules**",
+                "description": "**➜ Be respectful to everyone**\n\n**➜ No NSFW content**\n\n**➜ No advertising**\n> Not even in DM's\n\n**➜ No doxxing**\n\n**➜ No spamming**\n\n**➜ No drama**\n> Do whatever it takes to not start or encourage unnecessary drama. We are all on here to have fun\n\n**➜ No raiding**\n> Raiding or planning raid's will lead to a permanent ban\n\n**➜ Respect the staff team**\n\n**➜ Post content relevant to each channel**\n> Outside the general chat's, please keep the content posted relevant to the channel you are in\n\n**➜ No hate speech**\n> This includes but is not limited to racism, sexism, homophobia, or defamation\n\n**➜ No self-botting**\n\n**➜ Please try to keep the chat's in English**\n> We can't moderate what we can't understand\n\n**➜ Use common sense**\n> Using loopholes for bending the rules is still rule breaking, do not expect to get away with it just because it's not mentioned in the rules\n\n**➜ No download links or files are allowed**\n> Please contact a moderator before posting a file or download link",
+                "color": 11433458
+              },
+              {
+                "color": 11433458,
+                "image": {
+                  "url": "https://github.com/RD-Developement/Relaxed-Downtown/blob/main/Embed%20Header/Voice%20Rules.png?raw=true"
+                }
+              },
+              {
+                "title": "**Voice Rules**",
+                "description": "**➜ No ear-rape**\n\n**➜ Do not spam the music bot**\n\n**➜ No NSFW**\n\n**➜ One music bot per channel**\n\n**➜ Use appropriate channels**\n> Only listen to music in the music channels",
+                "color": 11433458
+              },
+              {
+                "color": 11433458,
+                "image": {
+                  "url": "https://github.com/RD-Developement/Relaxed-Downtown/blob/main/Embed%20Header/General%20Rules.png?raw=true"
+                }
+              },
+              {
+                "description": "We enforce [Discord TOS (Term's of Service)](https://discord.com/terms) and the [Discord Community Guidelines](https://discord.com/guidelines)\n\nThe Moderators reserve the right to remove any content or user deemed detrimental to the server\n\n**➜ No alternate account's**\n\n**➜ No impersonation**\n\n**➜ No inappropriate names or profile pictures**",
+                "color": 11433458
+              }
+            ],
+            "attachments": []
+          },
+          "reference": "https://discord.com/channels/771797312581402674/806194833852858378/1001541131248619610"
+        }
+      ],
+      "targets": [
+        {
+          "url": "https://discord.com/api/webhooks/1001534938404896808/j0HwH-GqR_qN8SPQ1cJUYDwZf1oe8DpAc7E5f-Fiwg_IzVjd78M2j2m0Ilazh7ptaRBm"
+        }
+      ]
+    }
+  ]
+}
