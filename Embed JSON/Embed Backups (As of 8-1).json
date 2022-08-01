@@ -1,0 +1,376 @@
+{
+  "version": 7,
+  "backups": [
+    {
+      "name": "Relaxed Downtown Information",
+      "messages": [
+        {
+          "data": {
+            "content": null,
+            "embeds": [
+              {
+                "title": "Welcome To Relaxed Downtown!",
+                "description": "Welcome to the Relaxed side of Discord!  If you like meeting new people from all over the world, taking about **anime**, **lofi**, or **drawing**, then this server is for you!\n\nBut what makes us special? Well, we don't have any **toxicity**, **NSFW content**, or **annoying promos** anywhere in our server! This is a safe place to make yourself at home and have fun!",
+                "color": 10181046,
+                "thumbnail": {
+                  "url": "https://images-ext-2.discordapp.net/external/qjQa2K5qiiamEteydflKFfj5ijI0TDsKPpv_8sGY-sY/%3Fsize%3D128/https/cdn.discordapp.com/icons/771797312581402674/a_fa79102315d03851d5cc7060c94d1f0c.gif"
+                }
+              },
+              {
+                "color": 10181046,
+                "image": {
+                  "url": "https://i.imgur.com/agNodcC.png"
+                }
+              },
+              {
+                "title": "Staff Information",
+                "description": "As staff, our #1 goal is to keep the server a safe community for everyone!  This is why we have many staff roles, each with their own jobs.  You can visit the fully updated staff list [here](https://docs.google.com/document/d/18CDjJv18os2sl2fOupB72RimHWwhv1gjfXw1UHU0CNg/edit).\n\n**Founders**\n<@605760781664911380>, <@418096600842240012>\n\n**Owners**\n<@721341252649353256>\n\n**Admins**\n<@300280086727491585>\n\n**Senior Moderators**\n<@527402244744806410>\n\n**Moderators**\n<@797768113935745035>, <@769960768379813908>, <@819207117189021707>\n\n**Supporters**\n<@615306696608317440>",
+                "color": 10181046
+              },
+              {
+                "color": 10181046,
+                "image": {
+                  "url": "https://i.imgur.com/vwCo3RL.png"
+                }
+              },
+              {
+                "title": "Bot Information",
+                "description": "As a server, we strive to have some of the best, most popular features, including bots!  Here is a list of our most used bots! If you want to learn more about them, go [here](https://docs.google.com/document/d/1EC3njPflIldZzZ50Ekj2t8JpQYhwJfSv6uPKEjZyEiw/edit?usp=sharing).\n\n<@874306407447539712>\nDowntown Bot is the custom made bot for Relaxed Downtown made by <@196323838722703360> and <@721341252649353256>!  It has many features including moderation, a currency system, and more!  You can invite it to your server [here](https://top.gg/bot/874306407447539712).\n\n<@437808476106784770>\nArcane is our leveling bot!  For every message you send, you get a random amount of XP.  Once you have enough XP, you can level up!  After getting level 20, you can unlock many cool features. You can check your current level by typing this following command: `!arc level` (Please use this command only in <#820067013308710953>).\n\n**<@159985870458322944>**\nMEE6 is a popular moderation bot that handles the welcome messages and moderation for Relaxed Downtown.\n\n<@155149108183695360>\nDyno is another popular moderation and fun bot that handles some of the behind-the-scenes functions, like logging!\n\n<@235088799074484224>\nRythm is another popular (I know) music bot that can play music in voice and stage channels! \n\nIf you want more detailed documentation for any of the bots listed above, visit [this document](https://docs.google.com/document/d/1EC3njPflIldZzZ50Ekj2t8JpQYhwJfSv6uPKEjZyEiw/edit?usp=sharing)!",
+                "color": 10181046
+              }
+            ]
+          },
+          "reference": ""
+        }
+      ],
+      "targets": [
+        {
+          "url": "https://ptb.discord.com/api/webhooks/881511738749640704/v4zw41Q9-6knjSsByyuFScfevqxRvrk3HOk72HQtCZ0toT-YorkP7zNN4GZdvbUWo2_j"
+        }
+      ]
+    },
+    {
+      "name": "Relaxed Downtown FAQ",
+      "messages": [
+        {
+          "data": {
+            "content": null,
+            "embeds": [
+              {
+                "color": 10181046,
+                "image": {
+                  "url": "https://i.imgur.com/wUTrt0G.png"
+                }
+              },
+              {
+                "title": "Frequently Asked Questions",
+                "description": "Since there are a lot of complicated things that you can do, you may have many questions!  Here are some answers to popular ones: \n\n**How Can I Apply For Staff?**\nWe will announce when a staff role is needed in <#818247636892647476>!\n\n**How Do I Play Music In Voice Chats?**\n1. Join a voice channel (preferably <#819333322643341313> or <#847456725459402772>)\n2. Type the command `<p <name/link of the song>` for <@235088799074484224> or  `<p <name/link of the song>` for <@252128902418268161> in <#818248207485632551>.\n\n**I Saw Someone Breaking The Rules, What Should I Do?**\nIf there are no staff online or we missed something, you can create a ticket in <#833802918540476467>.\n\n**Why Is Nobody Responding To My Tickets?**\nWe try to get to your questions as quickly as we can, but sometimes timezones do not line up or there are other things that staff are doing.  Please do not ping any staff members because we will get to your ticket eventually!\n\n**Do You Still Need Help?**\nIf you  still need help, you can make a ticket in <#833802918540476467> and a staff member will assist you!",
+                "color": 10181046
+              }
+            ]
+          },
+          "reference": ""
+        }
+      ],
+      "targets": [
+        {
+          "url": "https://ptb.discord.com/api/webhooks/882404298300993556/cGWBQelbW9eRvfMnx1LWpwgGFmBOTSZfJWHb7ZYTOWFFlJYcEX10oxCLBnUCiMdxbqXR"
+        }
+      ]
+    },
+    {
+      "name": "RD Rules",
+      "messages": [
+        {
+          "data": {
+            "content": null,
+            "embeds": [
+              {
+                "color": 11433458,
+                "image": {
+                  "url": "https://github.com/RD-Developement/Relaxed-Downtown/blob/main/Embed%20Header/Text%20Rules.png?raw=true"
+                }
+              },
+              {
+                "title": "**Text Rules**",
+                "description": "**➜ Be respectful to everyone**\n\n**➜ No NSFW content**\n\n**➜ No advertising**\n> Not even in DM's\n\n**➜ No doxxing**\n\n**➜ No spamming**\n\n**➜ No drama**\n> Do whatever it takes to not start or encourage unnecessary drama. We are all on here to have fun\n\n**➜ No raiding**\n> Raiding or planning raid's will lead to a permanent ban\n\n**➜ Respect the staff team**\n\n**➜ Post content relevant to each channel**\n> Outside the general chat's, please keep the content posted relevant to the channel you are in\n\n**➜ No hate speech**\n> This includes but is not limited to racism, sexism, homophobia, or defamation\n\n**➜ No self-botting**\n\n**➜ Please try to keep the chat's in English**\n> We can't moderate what we can't understand\n\n**➜ Use common sense**\n> Using loopholes for bending the rules is still rule breaking, do not expect to get away with it just because it's not mentioned in the rules\n\n**➜ No download links or files are allowed**\n> Please contact a moderator before posting a file or download link",
+                "color": 11433458
+              },
+              {
+                "color": 11433458,
+                "image": {
+                  "url": "https://github.com/RD-Developement/Relaxed-Downtown/blob/main/Embed%20Header/Voice%20Rules.png?raw=true"
+                }
+              },
+              {
+                "title": "**Voice Rules**",
+                "description": "**➜ No ear-rape**\n\n**➜ Do not spam the music bot**\n\n**➜ No NSFW**\n\n**➜ One music bot per channel**\n\n**➜ Use appropriate channels**\n> Only listen to music in the music channels",
+                "color": 11433458
+              },
+              {
+                "color": 11433458,
+                "image": {
+                  "url": "https://github.com/RD-Developement/Relaxed-Downtown/blob/main/Embed%20Header/General%20Rules.png?raw=true"
+                }
+              },
+              {
+                "description": "We enforce [Discord TOS (Term's of Service)](https://discord.com/terms) and the [Discord Community Guidelines](https://discord.com/guidelines)\n\nThe Moderators reserve the right to remove any content or user deemed detrimental to the server\n\n**➜ No alternate account's**\n\n**➜ No impersonation**\n\n**➜ No inappropriate names or profile pictures**",
+                "color": 11433458
+              }
+            ],
+            "attachments": []
+          },
+          "reference": "https://discord.com/channels/771797312581402674/806194833852858378/1001541131248619610"
+        }
+      ],
+      "targets": [
+        {
+          "url": "https://discord.com/api/webhooks/1001534938404896808/j0HwH-GqR_qN8SPQ1cJUYDwZf1oe8DpAc7E5f-Fiwg_IzVjd78M2j2m0Ilazh7ptaRBm"
+        }
+      ]
+    },
+    {
+      "name": "RD Gangs",
+      "messages": [
+        {
+          "data": {
+            "content": null,
+            "embeds": [
+              {
+                "color": 11433458,
+                "image": {
+                  "url": "https://github.com/RD-Developement/Relaxed-Downtown/blob/main/Embed%20Header/Relaxed%20Downtown%20Roles.png?raw=true"
+                }
+              },
+              {
+                "title": "**Reaction Roles**",
+                "description": "React to the messages below to get roles! If you need any help, contact staff members in <#825798591507464212>",
+                "color": 11433458
+              },
+              {
+                "title": "**Gangs**",
+                "description": "🖥️ - PC Gang \n🎮 - PS4 Gang\n🟢 - XBOX Gang\n🕹️ - Switch Gang",
+                "color": 11433458
+              }
+            ],
+            "attachments": []
+          },
+          "reference": "https://discord.com/channels/771797312581402674/818131977122480148/893929924107317299"
+        }
+      ],
+      "targets": [
+        {
+          "url": "https://discord.com/api/webhooks/893929615645622323/-e504ZW9wMz1hkyzd2v5EAoZOHc86gwv-e7LLW6we6KnVWCjbrc_eqznIfXSdx3cRig4"
+        }
+      ]
+    },
+    {
+      "name": "RD Gender",
+      "messages": [
+        {
+          "data": {
+            "content": null,
+            "embeds": [
+              {
+                "title": "**Genders**",
+                "description": "♀️ - Female\n♂️ - Male\n⬜ - Other\n⚪ - Uncertain",
+                "color": 11433458
+              }
+            ],
+            "attachments": []
+          },
+          "reference": "https://discord.com/channels/771797312581402674/818131977122480148/893933612590858260"
+        }
+      ],
+      "targets": [
+        {
+          "url": "https://discord.com/api/webhooks/893929615645622323/-e504ZW9wMz1hkyzd2v5EAoZOHc86gwv-e7LLW6we6KnVWCjbrc_eqznIfXSdx3cRig4"
+        }
+      ]
+    },
+    {
+      "name": "RD Pronouns",
+      "messages": [
+        {
+          "data": {
+            "content": null,
+            "embeds": [
+              {
+                "title": "**Pronouns**",
+                "description": "💙 - He/Him\n❤️ - She/Her\n💚 - They/Them\n💜 - He/They\n💛 - She/They\n🤍 - Any",
+                "color": 11433458
+              }
+            ],
+            "attachments": []
+          },
+          "reference": "https://discord.com/channels/771797312581402674/818131977122480148/893934411844833292"
+        }
+      ],
+      "targets": [
+        {
+          "url": "https://discord.com/api/webhooks/893929615645622323/-e504ZW9wMz1hkyzd2v5EAoZOHc86gwv-e7LLW6we6KnVWCjbrc_eqznIfXSdx3cRig4"
+        }
+      ]
+    },
+    {
+      "name": "RD Age",
+      "messages": [
+        {
+          "data": {
+            "content": null,
+            "embeds": [
+              {
+                "title": "**Age**",
+                "description": "🤟 - Under 18\n🔞 - Over 18",
+                "color": 11433458
+              }
+            ],
+            "attachments": []
+          },
+          "reference": "https://discord.com/channels/771797312581402674/818131977122480148/893935836985450556"
+        }
+      ],
+      "targets": [
+        {
+          "url": "https://discord.com/api/webhooks/893929615645622323/-e504ZW9wMz1hkyzd2v5EAoZOHc86gwv-e7LLW6we6KnVWCjbrc_eqznIfXSdx3cRig4"
+        }
+      ]
+    },
+    {
+      "name": "RD Continents",
+      "messages": [
+        {
+          "data": {
+            "content": null,
+            "embeds": [
+              {
+                "title": "**Continents**",
+                "description": "🗽 - North America\n🌄 - South America\n🏰 - Europe\n☀️ - Africa\n🗻 - Asia\n🌊 - Oceana\n🧊 - Antarctica",
+                "color": 11433458
+              }
+            ],
+            "attachments": []
+          },
+          "reference": "https://discord.com/channels/771797312581402674/818131977122480148/893937414614184008"
+        }
+      ],
+      "targets": [
+        {
+          "url": "https://discord.com/api/webhooks/893929615645622323/-e504ZW9wMz1hkyzd2v5EAoZOHc86gwv-e7LLW6we6KnVWCjbrc_eqznIfXSdx3cRig4"
+        }
+      ]
+    },
+    {
+      "name": "RD Hobbies",
+      "messages": [
+        {
+          "data": {
+            "content": null,
+            "embeds": [
+              {
+                "title": "**Hobbies**",
+                "description": "⚽ - Sports\n🎵 - Music\n🎮 - Gaming\n✏️ - Drawing \n🎬 - Movies\n🌸 - Anime\n👨‍💻 - Coding\n🔴 - Streaming\n🎶 - Music Producing\n📚 - Studying",
+                "color": 11433458
+              }
+            ],
+            "attachments": []
+          },
+          "reference": "https://discord.com/channels/771797312581402674/818131977122480148/894626207730126918"
+        }
+      ],
+      "targets": [
+        {
+          "url": "https://discord.com/api/webhooks/893929615645622323/-e504ZW9wMz1hkyzd2v5EAoZOHc86gwv-e7LLW6we6KnVWCjbrc_eqznIfXSdx3cRig4"
+        }
+      ]
+    },
+    {
+      "name": "RD DM Status",
+      "messages": [
+        {
+          "data": {
+            "content": null,
+            "embeds": [
+              {
+                "title": "**DM Status**",
+                "description": "🟢 - Open For DM's\n🟡 - Ask For DM's\n🔴 - No DM's",
+                "color": 11433458
+              }
+            ],
+            "attachments": []
+          },
+          "reference": "https://discord.com/channels/771797312581402674/818131977122480148/894630780674904094"
+        }
+      ],
+      "targets": [
+        {
+          "url": "https://discord.com/api/webhooks/893929615645622323/-e504ZW9wMz1hkyzd2v5EAoZOHc86gwv-e7LLW6we6KnVWCjbrc_eqznIfXSdx3cRig4"
+        }
+      ]
+    },
+    {
+      "name": "RD Other Roles",
+      "messages": [
+        {
+          "data": {
+            "content": null,
+            "embeds": [
+              {
+                "title": "**Other Roles**",
+                "description": "📢 - News Ping (Get pinged when there are announcements, events and more)\n🔔 - Revive Ping (Get pinged when the chat needs to get revived)\n👊 - Bumper Ping (Get pinged when you're able to bump the server in <#839547689233416193>)\n👋 - Welcomer Ping (Get pinged every time a new user joins)\n❓ - QOTD Ping (Get Pinged every day for the **Q**uestion **O**f **T**he **D**ay in <#938449061743316993>)",
+                "color": 11433458
+              }
+            ],
+            "attachments": []
+          },
+          "reference": "https://discord.com/channels/771797312581402674/818131977122480148/894650170636107836"
+        }
+      ],
+      "targets": [
+        {
+          "url": "https://discord.com/api/webhooks/893929615645622323/-e504ZW9wMz1hkyzd2v5EAoZOHc86gwv-e7LLW6we6KnVWCjbrc_eqznIfXSdx3cRig4"
+        }
+      ]
+    },
+    {
+      "name": "RD VIP Information",
+      "messages": [
+        {
+          "data": {
+            "content": null,
+            "embeds": [
+              {
+                "color": 11433458,
+                "image": {
+                  "url": "https://github.com/RD-Developement/Relaxed-Downtown/blob/main/Embed%20Header/Relaxed%20Downtown%20VIP%20Information.png?raw=true"
+                }
+              },
+              {
+                "title": "**VIP Information**",
+                "description": "Thank you for boosting the server or keeping our chats active! It is very appreciated. Here in the VIP section of the server, you can make custom roles for yourself and chat with the other VIP's.",
+                "color": 11433458,
+                "fields": [
+                  {
+                    "name": "**Custom Roles**",
+                    "value": "> **Creating a Role**\n> `exo create` rolename color\n> Example:  `exo create yung is cool #3db16d`\n> Note: The color must be in the hex format (learn more [here](https://www.w3schools.com/colors/colors_hexadecimal.asp)) \n\n> **Recoloring a role**\n> `exo recolor` color\n> Example:  `exo recolor #978ffc`\n\n> **Renaming a role**\n> `exo rename` name\n> Example: `exo rename The Choco Bar is my fav`\n\n> **Deleting a role**\n> `exo remove`\n\n**Make sure to use these commands in <#1003791220025331832>**"
+                  },
+                  {
+                    "name": "More To Come!",
+                    "value": "As time passes and we come up with more creative ideas to benefit our VIP's, we will add more to the information page and inform everyone of the changes."
+                  }
+                ]
+              }
+            ],
+            "attachments": []
+          },
+          "reference": ""
+        }
+      ],
+      "targets": [
+        {
+          "url": "https://discord.com/api/webhooks/1003788388710764644/5caID8ojyF7c8jCjL-l5MOnEVrP9STRwkWKLaG45g784VLd5sVXdOdRlfYhJVF3Yxz55"
+        }
+      ]
+    }
+  ]
+}
